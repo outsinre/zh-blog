@@ -1,0 +1,35 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               食色
+tagline:             '至末'
+description:         '熙熙攘攘'
+
+# if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files.
+baseurl:             /zh-blog
+paginate:            5
+
+# About/contact
+author:
+  name:              ZNHOO
+  url:               https://twitter.com/znhoo
+  email:             bob@noreply.com
+
+# Custom vars
+
+version:             1.0.0
+
+# deprecated vars
+
+#github:
+#  repo:  https://github.com/outsinre/zh-blog
+
+#url		     http://blog.fangxiang.tk
