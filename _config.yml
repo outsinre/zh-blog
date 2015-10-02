@@ -10,7 +10,7 @@ relative_permalinks: true
 # the quotes are NOT a must.
 title:               '食色'
 tagline:             '至末'
-description:         '熙熙攘攘，顽石@警幻灵河岸'
+description:         '顽石@警幻灵河岸'
 
 # Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files.
 baseurl:             /
