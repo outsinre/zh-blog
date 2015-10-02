@@ -22,7 +22,7 @@
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
-	{% if node.title == "Subscribe" %}
+	{% if node.title == "订阅" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
 	{% endif %}
       {% endif %}
@@ -32,7 +32,7 @@
     <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank">GitHub Project</a>  -->
 
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <span class="sidebar-nav-item">Currently V{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">

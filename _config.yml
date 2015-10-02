@@ -7,10 +7,10 @@ highlighter:         pygments
 permalink:           pretty
 relative_permalinks: true
 
-# the single quotes are NOT a must.
+# the quotes are NOT a must.
 title:               '食色'
 tagline:             '至末'
-description:         '熙熙攘攘' 
+description:         '熙熙攘攘，顽石@警幻灵河岸'
 
 # Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files.
 baseurl:             /
@@ -20,10 +20,10 @@ paginate:            5
 author:
   name:              '食色'
   url:               http://blog.fangxiang.tk
-  email:             '顽石@警幻仙境'
+  email:             '顽石@警幻灵河岸'
 
 # Custom vars
-version:             1.0.0
+version:             1.0.1
 url:		     http://blog.fangxiang.tk
 
 
