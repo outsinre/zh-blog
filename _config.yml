@@ -13,7 +13,7 @@ tagline:             '至末'
 description:         '顽石@警幻灵河岸'
 
 # Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files.
-baseurl:             /
+baseurl:             /zh-blog
 paginate:            5
 
 # About/contact
