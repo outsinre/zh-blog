@@ -1,0 +1,14 @@
+---
+layout: post
+title: 头皮屑
+---
+
+1. amazon上专门治头皮多的shampoo太贵了walmart target哪种shampoo清洁作用比较好，刺激少，洗完了头皮湿润？
+2. P&G的Head and Shoulders，效果非常明显，立竿见影。我前几年头皮屑很多，肩膀上经常很多，自己都恶心的不行。后来就是用保洁的这个头肩洗头膏，不出两星期就完全好了。每周至少用两次就行。
+3. 为什么我在国内用的海飞丝洗发水洗完了头皮很痒?
+
+    痒就说明有效果了。坚持用下去，每周至少两次。洗头的时候用点劲，用指甲轻挠头皮，让洗头膏的泡沫渗透到头皮上，坚持大约10分钟再洗掉。这个是唯一有效的。我以前试过很多其他的，都不管用。
+4. 用classic海飞丝。要买海飞丝的，记住了是那个蓝瓶子的。 
+5. 头皮屑多用 Nizarol。
+6. 去沃尔玛买T-gel extra strength。可以是neutrogena的，也可以是equate的。
+7. Choose one between Nizoral and T/gel by neutrogena.
