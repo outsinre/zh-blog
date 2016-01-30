@@ -1,30 +1,35 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown:	redcarpet
+highlighter:	pygments
 
 # Permalinks
+permalink:	pretty
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# `relative_permalinks` now deprecated. Remove it.
+#
+#relative_permalinks:	true
+
+# encoding
+encoding:	utf-8
 
 # the quotes are NOT a must.
-title:               '食色'
-tagline:             '至末'
-description:         '顽石@警幻灵河岸'
+title:		'食色'
+tagline:	'至末'
+description:	'顽石@警幻灵河岸'
 
-# Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files.
-baseurl:             /
-paginate:            5
+# Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files in posts.
+baseurl:	/
+paginate:	5
 
 # About/contact
 author:
-  name:              '食色'
-  url:               http://blog.fangxiang.tk
-  email:             '顽石@警幻灵河岸'
+  name:		'食色'
+  url:		http://zaamwu.gq
+  email:	'顽石@警幻灵河岸'
 
-# Custom vars
-version:             '壹零壹'
-url:		     http://blog.fangxiang.tk
+# info vars
+version:	'壹零壹'
+url:		http://zaamwu.gq
 
 
 
