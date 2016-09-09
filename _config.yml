@@ -14,7 +14,7 @@ permalink: pretty
 
 # If not set custom url: if user pages, then use "/"; if project page, use "/project-name" (without trailing slash).
 baseurl: /
-url: http://blog.jimgray.tk
+url: http://blog.fxhu.tk
 paginate: 5
 
 # Site info
