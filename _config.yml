@@ -1,33 +1,33 @@
 # Dependencies
-markdown:	redcarpet
-highlighter:	pygments
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# encoding of filenames
+encoding: utf-8
 
 # Permalinks
-permalink:	pretty
-# Use of `relative_permalinks` ensures post links from the index work properly.
-# `relative_permalinks` now deprecated. Remove it.
-#
-#relative_permalinks:	true
+permalink: pretty
 
-# encoding
-encoding:	utf-8
+# If not set custom url: if user pages, then use "/"; if project page, use "/project-name" (without trailing slash).
+baseurl: /
+url: http://blog.jimgray.tk
+paginate: 5
 
-# the quotes are NOT a must.
-title:		'食色'
-tagline:	'至末'
-description:	'顽石@警幻灵河岸'
+# Site info
+title: '顽石@灵河'
+tagline: '食色，性也！'
+description: '蓬莱、方丈、瀛洲'
 
-# Without setting custom URL, if user pages, then use "/"; if project page, use "/project-name". Note the slash issue. If you include trailing slash, then should omit duplicated slash when accessing files in posts.
-baseurl:	/
-paginate:	5
+
 
 # About/contact
 author:
-  name:		'食色'
-  url:		http://www.zaamwu.gq
-  email:	'顽石@警幻灵河岸'
+  name: '顽石'
+  email: 'youwu@inventati.org'
 
-# info vars
-version:	'壹零壹'
-url:		http://www.zaamwu.gq
-
+# Custom vars
+version: '壹零壹'
