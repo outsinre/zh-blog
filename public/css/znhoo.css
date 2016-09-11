@@ -43,3 +43,7 @@
   top: 0px;
   right: 0px;
 }
+
+#disqus_thread{
+  width: 100%;
+}
