@@ -11,7 +11,7 @@ encoding: utf-8
 
 permalink: pretty
 
-url: http://blog.fxhu.tk
+url: https://blog.fxhu.tk
 paginate: 5
 
 # If not set custom url: if user pages, then use "/"; if project page, use "/project-name" (without trailing slash).
