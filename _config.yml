@@ -1,31 +1,21 @@
-# Dependencies
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-highlighter: rouge
+# https://help.github.com/articles/configuring-jekyll/
 
 encoding: utf-8
 
+url: http://blog.fxhu.tk
+baseurl: ''
+
 permalink: pretty
 
-url: https://blog.fxhu.tk
 paginate: 5
 
-# If not set custom url: if user pages, then use "/"; if project page, use "/project-name" (without trailing slash).
-baseurl: /
-
-# Site info
 title: '灵河顽石'
-tagline: '食色，性也！'
+tagline: '食色，性也'
 description: '蓬莱、方丈、瀛洲 <a href="mailto:{{ site.author.email }}"><br>（@信）</a>'
 
-# About/contact
 author:
-  name: '顽石'
-  email: 'youwu@inventati.org'
+  name: '灵河顽石'
+  email: youwu@inventati.org
 
 # Custom vars
 version: '壹零壹'

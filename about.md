@@ -7,4 +7,4 @@ title: 字号
 读完、读完、读完！
 </p>
 
-![道]({{site.baseurl}}assets/daoism.gif)
+![道]({{ site.baseurl }}/assets/daoism.gif)
