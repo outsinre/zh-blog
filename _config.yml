@@ -16,8 +16,8 @@ permalink: pretty
 paginate: 5
 
 title: '灵河顽石'
-tagline: '食色，性也'
-description: '蓬莱、方丈、瀛洲 <a href="mailto:{{ site.author.email }}"><br>（youwu at inventati dot org）</a>'
+tagline: '士不可不坚毅'
+description: '联系我 <a href="mailto:{{ site.author.email }}"><br>（youwu at inventati dot org）</a>'
 
 author:
   name: '灵河顽石'
