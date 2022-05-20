@@ -17,7 +17,7 @@ paginate: 5
 
 title: '灵河顽石'
 tagline: '士不可不坚毅'
-description: '联系我 <a href="mailto:{{ site.author.email }}"><br>（youwu at inventati dot org）</a>'
+description: '联系方式 <a href="mailto:{{ site.author.email }}"><br>（youwu at inventati dot org）</a>'
 
 author:
   name: '灵河顽石'
